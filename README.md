@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Heyy! I'm Jaydon...</h2>
+<h2 data-importer="text" align="left">Heyy! I'm Jaydon... I like to do ML projects</h2>
 
 ###
 
